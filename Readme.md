@@ -37,7 +37,7 @@ log_data/2018/11/2018-11-12-events.json
 log_data/2018/11/2018-11-13-events.json
 
 Sample data from this file
-    ![](images/LogDataPic.PNG)
+    ![](images/LogDataPic.png)
 
 
 ## Tables Created
@@ -58,7 +58,7 @@ Sample data from this file
 3. Data Quality checks are performed on the dimensional tables to see if the transformations ran correctly.
 
 ### DAG showing the sequence of steps
-![](images/AirFlow_Succesful_Execution.PNG)
+![](images/AirFlow_Succesful_Execution.png)
 
 ### Key files used in the project
 1. airflow/dags/udac_example_dag.py - Defines the tasks and arranges them in the DAG
